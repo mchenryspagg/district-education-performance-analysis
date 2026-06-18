@@ -6,7 +6,7 @@
 
 ## 1. Project Requirement
 
-The district oversees **10 schools** and roughly **200 students**, and tracks four areas of day‑to‑day operation in separate records: student **attendance**, **assessment** results, **enrollment** against targets, and **teacher lesson delivery**. Because these records lived in disconnected spreadsheets, leadership could not easily answer cross‑cutting questions such as *"which schools are struggling, and in what way?"* or *"do students who attend more actually perform better?"*
+The district oversees **10 schools (5 Primary and 5 secondary)** across **10 different states**, and tracks four areas of day‑to‑day operation in separate records: student **attendance**, **assessment** results, **enrollment** against targets, and **teacher lesson delivery**. Because these records lived in disconnected spreadsheets, leadership could not easily answer cross‑cutting questions such as *"which schools are struggling, and in what way?"* or *"do students who attend more actually perform better?"*
 
 This project was commissioned to **bring the four data sources together into a single analytical model and an interactive dashboard** that reports the district's standard performance indicators, makes it easy to compare schools, and surfaces the students and institutions most in need of support — so that decisions for the academic year are based on evidence rather than anecdote.
 
