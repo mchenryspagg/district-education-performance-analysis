@@ -48,10 +48,13 @@ The following assumptions underpin how the figures in this report were calculate
 - **Exploratory data analysis (EDA).** Distributions, ranges, and completeness were reviewed across ~**24,000 assessment records** and ~**36,000 attendance records**. The grading scale was confirmed to be **out of 100** throughout, the four academic terms were verified, and the attendance–performance relationship was tested directly.
 - **Interactive dashboard.** A **four‑page report** was built for self‑service exploration:
   1. **Executive Summary** — headline KPIs and a school scorecard
+    ![Executive Summary](education ex summary.png)
   2. **Attendance Deep Dive** — rates, daily/weekday patterns, absence reasons, chronic cases
+    ![Attendance Deep dive](attendance deepdive.png)
   3. **Academic Performance** — scores and pass rates by subject, grade, and term
+    ![Academic Performance](acdemic perf.png)
   4. **Enrollment & Teacher Activity** — targets vs. actuals, gender balance, and lesson delivery
-
+   ![Enrollment & Teacher Activity](enrollment&teacher activity.png)
 ---
 
 ## 5. Key Findings & Insights
@@ -79,6 +82,12 @@ The following assumptions underpin how the figures in this report were calculate
 4. **Academic results are strong and remarkably consistent.** The pass rate is **90.4%** with an average of **60.8/100**. Performance barely moves across subjects (Mathematics highest at 61.2; Science lowest at 60.3 — under a one‑point spread), across the four terms (essentially flat), or across schools. Still, roughly **1 in 10 students is at risk** (scoring under 40), a group worth targeted support.
 
 5. **Attendance does not predict performance in this data.** Contrary to the usual expectation, students who attend more do **not** score higher here — the relationship is statistically negligible, and chronically‑absent students average essentially the same score (60.9) as their peers (60.6). Performance is being driven by something other than attendance.
+
+---
+
+### 5b. Data Source - Education_Sample_Dataset.xlsx
+
+## 5c. Solution Power BI file - Education_Sample.pbip
 
 ---
 
