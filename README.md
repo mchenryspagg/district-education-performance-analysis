@@ -48,13 +48,16 @@ The following assumptions underpin how the figures in this report were calculate
 - **Exploratory data analysis (EDA).** Distributions, ranges, and completeness were reviewed across ~**24,000 assessment records** and ~**36,000 attendance records**. The grading scale was confirmed to be **out of 100** throughout, the four academic terms were verified, and the attendance–performance relationship was tested directly.
 - **Interactive dashboard.** A **four‑page report** was built for self‑service exploration:
   1. **Executive Summary** — headline KPIs and a school scorecard
-    ![Executive Summary](education ex summary.png)
-  2. **Attendance Deep Dive** — rates, daily/weekday patterns, absence reasons, chronic cases
-    ![Attendance Deep dive](attendance deepdive.png)
-  3. **Academic Performance** — scores and pass rates by subject, grade, and term
-    ![Academic Performance](acdemic perf.png)
-  4. **Enrollment & Teacher Activity** — targets vs. actuals, gender balance, and lesson delivery
-   ![Enrollment & Teacher Activity](enrollment&teacher activity.png)
+    ![Executive Summary](https://github.com/mchenryspagg/district-education-performance-analysis/blob/main/education%20ex%20summary.png)
+
+  3. **Attendance Deep Dive** — rates, daily/weekday patterns, absence reasons, chronic cases
+    ![Attendance Deep dive](https://github.com/mchenryspagg/district-education-performance-analysis/blob/main/attendance%20deepdive.png)
+
+  5. **Academic Performance** — scores and pass rates by subject, grade, and term
+    ![Academic Performance](https://github.com/mchenryspagg/district-education-performance-analysis/blob/main/acdemic%20perf.png)
+
+  7. **Enrollment & Teacher Activity** — targets vs. actuals, gender balance, and lesson delivery
+   ![Enrollment & Teacher Activity](https://github.com/mchenryspagg/district-education-performance-analysis/blob/main/enrollment%26teacher%20activity.png)
 ---
 
 ## 5. Key Findings & Insights
@@ -85,9 +88,13 @@ The following assumptions underpin how the figures in this report were calculate
 
 ---
 
-### 5b. Data Source - Education_Sample_Dataset.xlsx
+### 5b. Data Source 
+- [Raw Data](Education_Sample_Dataset.xlsx)
 
-## 5c. Solution Power BI file - Education_Sample.pbip
+---
+
+### 5c. Solution Power BI file 
+- [Open Power BI Project](Education_Sample.pbip)
 
 ---
 
